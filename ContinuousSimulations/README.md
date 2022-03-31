@@ -1,4 +1,4 @@
-#Discrete Comparison Function
+# Discrete Comparison Function
 
 We have implemented three algorithms 
 
