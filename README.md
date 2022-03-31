@@ -5,4 +5,6 @@ DiscreteSimulations folder contain the code when assuming that the comparison fu
 
 ContinuousSimulations folder contain the code when assuming that the comparison function for the Income-Level variable is the Euclidean Distance.
 
-Graph
+GraphGeneration recreate the heatmap that is provided in the paper
+
+
