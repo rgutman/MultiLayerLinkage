@@ -7,5 +7,3 @@ ContinuousSimulations folder contain the code when assuming that the comparison 
 
 GraphGeneration recreate the heatmap that is provided in the paper
 
-
-SimulatedRealData provides the algorithm that was run on the real dataset. Because the data cannot be shared we implement it on a simulated dataset. 
