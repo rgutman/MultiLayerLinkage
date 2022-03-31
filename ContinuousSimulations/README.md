@@ -1,4 +1,4 @@
-# Discrete Comparison Function
+# Continuous Comparison Function
 
 We have implemented three algorithms: 
 
@@ -13,5 +13,5 @@ Each of the algrothims is an R script that can be implemented with three error p
 Here is the command line to run the scripts for no error in region variable, 20% error in income variable, and 40% error in date of birth:
 
 1) BRL - Rscript --verbose BRL_noDOBDay.R 0 2 4  
-2) CIBRL - Rscript --verbose CIBRL_Disc_noDOBDay.R 0 2 4  
-3) MLBRL - Rscript --verbose CIBRL_Disc_noDOBDay.R 0 2 4  
+2) CIBRL - Rscript --verbose CIBRL_noDOBDay.R 0 2 4  
+3) MLBRL - Rscript --verbose CIBRL_noDOBDay.R 0 2 4  
